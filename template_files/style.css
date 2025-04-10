@@ -13,6 +13,14 @@
   border-collapse: collapse;
   }
 
+  .mob_sub_3:hover {
+    color: #03023D !important;
+  }
+
+   .mob_sub:hover {
+    color: #03023D !important;
+  }
+
 
 	.content {
 		font-family: 'Noto Sans TC', sans-serif;
